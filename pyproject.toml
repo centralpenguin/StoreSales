@@ -11,6 +11,8 @@ ipykernel = "^6.25.2"
 pandas = "^2.1.1"
 matplotlib = "^3.8.0"
 transformers = "^4.33.2"
+flake8 = "^6.1.0"
+black = "^23.9.1"
 
 
 [tool.poetry.group.dev.dependencies]
