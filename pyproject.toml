@@ -17,6 +17,7 @@ seaborn = "^0.12.2"
 click = "^8.1.7"
 mypy = "^1.5.1"
 jupyter-black = "^0.3.4"
+mlflow = "^2.7.1"
 
 
 [tool.poetry.group.dev.dependencies]
